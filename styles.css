@@ -111,6 +111,7 @@ button:not(:disabled) {
 .role {
   color: #a524b9;
   font-weight: 800;
+  text-align: left;
 }
 
 .hero-section {
@@ -881,8 +882,9 @@ footer {
   }
   .waviy {
     padding-left: 0;
-    font-size: 8px;
-    margin-bottom: 1rem;
+    /* font-size: smaller; */
+    text-align: center;
+    margin-bottom: 0.8rem;
   }
   .skills-container {
     margin-bottom: 6rem;
